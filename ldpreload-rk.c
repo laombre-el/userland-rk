@@ -240,3 +240,6 @@ FILE *fopen(const char *pathname, const char *mode)
 	fp = orig_fopen(pathname, mode);
 	return fp;
 }
+
+
+//https://h0mbre.github.io/Learn-C-By-Creating-A-Rootkit/
