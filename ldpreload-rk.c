@@ -16,13 +16,6 @@
 #define KEY_PORT "FE29"
 
 
-/* SECRETS - TODO: DELETE BEFORE UPLOAD!!!
-
-    APITOKEN:  6c9e70fda6ee4b699339c7074ffb5d6b
-    PASS:     4K#p!9Ls2@7$CqNfX6*wY8t
-
-*/
-
 int ipv4_bind (void)
 {
     struct sockaddr_in addr;
