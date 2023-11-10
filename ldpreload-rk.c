@@ -241,5 +241,9 @@ FILE *fopen(const char *pathname, const char *mode)
 	return fp;
 }
 
+// PASTEBIN
 
-//https://h0mbre.github.io/Learn-C-By-Creating-A-Rootkit/
+//
+
+
+
